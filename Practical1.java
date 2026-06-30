@@ -18,7 +18,7 @@ public class Practical1{
 
         System.out.println();
 
-        int number = 50;
+        int number = 60;
         double result = number;
 
         System.out.println("Implicit Type Casting");
